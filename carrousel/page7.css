@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    background-color: gray;
+}
+#carouselExemple {
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+.carousel-item img {
+    width: 100%;
+    height: auto;
+}
+.container-fluid{
+    color: rgb(19, 17, 17);
+    height: 200%;
+}
+.container-fluid{
+    color: black !important;
+}
+#footer{
+    color: rgb(136, 255, 0);
+    background-color: rgb(194, 187, 166);
+    margin-top: 10%;
+    height: 800px;
+}
+#carouselExemple2{
+    width: 20%;
+    margin: 0 auto;
+    margin-left: 70%;
+    margin-top: -700px;
+}
+#carouselExemple3{
+    width: 20%;
+    margin: 0 auto;
+    margin-right: 70%;
+    margin-top: -800px;
+}
+.container-fluid{
+    color: rgb(15, 15, 15);
+}
+#navbarDropdown{
+    color: cornsilk;
+    height: 15px;
+}
+#podcast{
+    text-align: center;
+    color: crimson;
+    margin-top: -100%;
+    margin-left: 500%;
+    font-size: 500%;
+    color: white;
+    width: 30px;
+}
+#lien{
+    color: white;
+    margin-left: 2000% ;
+}
+#neuro{
+    
+    margin-left: 300%;
+    font-size: 200%;
+}
+#boutonun{
+    color: rgb(231, 98, 98);
+}

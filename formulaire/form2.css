@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    justify-content: left;
+    height: 20%; 
+}
+fieldset{
+    color:rgb(235, 224, 224); 
+    height: 2200px;
+    width: 635%;
+    background-color: rgb(20, 19, 19); 
+}
+input{
+    height: 5%;
+    width: 60%;
+    text-align: left;
+}
+#create{
+    font-size: 300%;
+}
+#one{
+    height: 30px;
+    margin: -40%;
+}
+#two{
+    height: 30px;
+    margin: -40%;
+}
+button{
+    margin-left: 2%;
+    height: 5%;
+    width: 60%;
+    background-color: rgb(75, 90, 172);
+    border-radius: 2%;
+    font-style: italic;
+    font-size: x-large; color: rgb(230, 204, 204);
+    border-color: black;
+}
+img{
+    margin-left: 26%;
+    width: 200%;
+}
